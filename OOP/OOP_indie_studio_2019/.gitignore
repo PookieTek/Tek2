@@ -1,0 +1,7 @@
+/build/CMakeCache.txt
+/build/CMakeFiles
+/build/cmake_install.cmake
+bomberman
+/build
+.vscode
+*.dat
